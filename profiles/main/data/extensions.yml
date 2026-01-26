@@ -1,0 +1,8 @@
+disabled: []
+enabled:
+  - id: boltex.leojs
+    uuid: 26ec4a41-82ad-43c6-8346-41e978636b29
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
