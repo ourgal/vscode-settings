@@ -2,10 +2,22 @@ disabled: []
 enabled:
   - id: boltex.leojs
     uuid: 26ec4a41-82ad-43c6-8346-41e978636b29
+  - id: carlos-algms.make-task-provider
+    uuid: a9ca6307-f560-4df5-8375-7c7d312a4a35
   - id: kahole.magit
     uuid: 4d965b97-6bfd-43d8-882c-d4dfce310168
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-python-envs
+    uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
   - id: PKief.material-icon-theme
     uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: redhat.ansible
+    uuid: f8cb4642-bc5c-46a1-be34-0977e817406c
+  - id: redhat.vscode-yaml
+    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: vscodevim.vim
     uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
   - id: zokugun.cron-tasks
