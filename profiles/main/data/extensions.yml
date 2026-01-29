@@ -4,6 +4,8 @@ enabled:
     uuid: 26ec4a41-82ad-43c6-8346-41e978636b29
   - id: kahole.magit
     uuid: 4d965b97-6bfd-43d8-882c-d4dfce310168
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: vscodevim.vim
     uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
   - id: zokugun.cron-tasks
